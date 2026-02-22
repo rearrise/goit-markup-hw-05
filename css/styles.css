@@ -38,7 +38,7 @@ a {
 button {
   padding: 0;
   border: 1px solid transparent;
-  background-color: none;
+  background-color: transparent;
   cursor: pointer;
 }
 img {
@@ -378,7 +378,7 @@ img {
 }
 .footer > .container {
   display: flex;
-  align-items: flex-start;
+  align-items: baseline;
   flex-direction: row;
   margin: 0 auto;
   gap: 120px;
