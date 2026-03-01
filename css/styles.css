@@ -671,5 +671,16 @@ img {
   text-decoration-skip-ink: none;
   color: #4d5ae5;
 }
+.btn-send-wrapper {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.btn-send {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 169px;
+}
 /* #endregion */
 /* #endregion */
